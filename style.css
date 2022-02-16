@@ -221,3 +221,14 @@ html{
     }
     
 }
+@media (max-width: 500px){
+    .navbar ul{
+        margin: 20px 0px;
+    }
+    .navbar ul li{
+        font-size: 1rem; 
+    }
+    .navbar ul li a{
+        padding: 30px 10px;
+    } 
+}
