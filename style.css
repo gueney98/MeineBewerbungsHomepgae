@@ -162,6 +162,19 @@ html{
 .box ul li strong{
     color: rgb(85,122,167);
 }
+.box table td{
+    padding: 10px;
+    margin: 18px 0;
+}
+.box table {
+    padding: 10px;
+    text-align: center;
+}
+.box table th{
+    color: rgb(85,122,167);
+}
+
+/*Kontakt*/
 #kontakt{
     
     text-align: center;
@@ -174,6 +187,7 @@ html{
 #kontakt a:hover{
     color: gray;
 }
+
 /*footer*/
 
 .footer{
