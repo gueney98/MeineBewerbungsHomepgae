@@ -190,16 +190,19 @@ html{
     padding: 10px;
     margin: 18px 0;
     
+    
 }
 .box table {
     padding: 10px;
     text-align: left;
     margin: 50px;
     width: 100%;
+    
 }
 .box table th{
-    color: rgb(85,122,167);
+    color: rgb(88, 128, 177);
     text-align: left;
+    
 }
 #kontakt{
     
