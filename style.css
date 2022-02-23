@@ -194,10 +194,12 @@ html{
 .box table {
     padding: 10px;
     text-align: center;
-    margin: 18px 0;
+    margin: 50px;
+    width: 100%;
 }
 .box table th{
     color: rgb(85,122,167);
+    text-align: left;
 }
 #kontakt{
     
