@@ -124,7 +124,7 @@ html{
 }
 .gallery{
     display: flex;
-    flex: wrap;
+    flex-wrap: wrap;
     justify-content: space-around;
     box-sizing: border-box;
 }
